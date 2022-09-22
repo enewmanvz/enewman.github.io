@@ -1935,6 +1935,22 @@ input, select, textarea {
 						background-color: transparent;
 					}
 
+/* Contact */
+
+ul.contact {
+	list-style: none;
+	padding: 0;
+}
+
+	ul.contact > li {
+		padding: 0;
+		margin: 1.5em 0 0 0;
+	}
+
+		ul.contact > li:first-child {
+			margin-top: 0;
+		}
+
 /* Actions */
 
 	ul.actions {
