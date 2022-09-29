@@ -310,6 +310,16 @@ input, select, textarea {
 
 		}
 
+/* Content */
+		.content {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: left;
+		}
+
+
+
+
 /* Row */
 
 	.row {
@@ -2057,6 +2067,7 @@ ul.contact {
 			background-image: none;
 			background-color: #fff;
 		}
+
 
 		.wrapper.style2 {
 			background-color: #fafafa;
